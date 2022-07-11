@@ -9,3 +9,4 @@ This is how the program works:
    * Now after applying threshold using threshold() function and getting Mask of the Image we will use getStructuringElement() to dilate the image using dilate(). Dilation increases the size of the foreground object. Hence, we will get all correct objects or Boxes that were correctly filled by the Student.
    * Then we will compare the answer of sutdent with the answer sheet that will be provided to program. 
    * In, the ned it will show the whole result like total number of questions, correct qustions and the percentage the student got.
+   * I have provided some test Images for others to see how it works and what kind of pictures it takes.
