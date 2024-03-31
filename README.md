@@ -4,7 +4,7 @@ This repository houses a versatile program crafted with OpenCV, C++, and Python,
 
 ## Features 🌟
 
-- **C++ Implementation**: Harnesses the power of image processing to discern filled markers on OMR sheets and computes scores against a predefined answer key. [🔗 C++ Implementation](https://github.com/D-Kumar19/OMR-Scanner/blob/master/OMR%20Scanner%20Project/Code/main.cpp)
+- **C++ Implementation**: Harnesses the power of image processing to discern filled markers on OMR sheets and computes scores against a predefined answer key. [🔗 C++ Implementation](https://github.com/D-Kumar19/OMR-Scanner/blob/master/OMR%20Scanner%20in%20CPP/Code/main.cpp)
 
 - **Python Implementation**: Facilitates real-time checking through webcam feeds or the evaluation of stored scans, inclusive of answer key generation and score computation. [🔗 Python Implementation](https://github.com/D-Kumar19/OMR-Scanner/blob/master/OMR%20Scanner%20in%20Python/Source%20Code/main.py)
 
